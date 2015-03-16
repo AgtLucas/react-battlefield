@@ -1,0 +1,19 @@
+{
+  "name": "react-battlefield",
+  "version": "1.0.0",
+  "description": "http://janekk.github.io/2015/03/12/building-html5-game-react-socketio.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgtLucas/react-battlefield.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/react-battlefield/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/react-battlefield"
+}
